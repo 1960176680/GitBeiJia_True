@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme.
+    <style name="AppTheme" parent="android:Theme.Light">
+      
+    </style>
+     -->
+ 
+    
+    <style name="IDLabelStyle">
+        <item name="android:layout_height">25dp</item>
+        <item name="android:textColor">#0099CC</item>
+        <item name="android:layout_width">50dp</item>
+    </style>
+
+    <style name="IDTextStyle">
+        <item name="android:layout_height">25dp</item>
+        <item name="android:layout_width">50dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+	
+    
+</resources>

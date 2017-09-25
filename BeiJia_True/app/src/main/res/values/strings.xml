@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">测试软件</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_clear">清除信息</string>
+    <string name="action_server">服务器设置</string>
+    <string name="action_selserver">选择服务器</string>
+    <string name="key_nm">授权码</string>
+    <string name="lablel_server_address">地  址:</string>
+    <string name="lablel_server_port">端  口:</string>
+    <string name="lablel_save">保存</string>
+    <string name="lablel_about">关于</string>
+    <string name="lablel_barcode">扫码</string>
+    <string name="lablel_blue">选择蓝牙设备</string>
+    <string name="lablel_dis_blue">断开蓝牙设备</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_connected_devices">Connected Devices</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="select_disconnect_device">select a device to disconnect</string>
+    <string name="lablel_test_image">图片测试:</string>
+    <!-- 选择服务器列表 -->
+    <string name="server_sel_title">服务器选择:</string>
+    <string name="idOk">确定:</string>
+    <string name="idCancel">取消:</string>
+    <string name="idPressAgainToExitTest">再按一次退出</string>
+    <string name="button_scan">搜索</string>
+</resources>
